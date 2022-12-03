@@ -1,2 +1,2 @@
-# Carvisor
-Carvisor is a Machine-Learning Web Application that predicts the price of Cars.
+# Capstone
+WGU capstone application is a Machine-Learning Web Application that predicts the price of Cars.
