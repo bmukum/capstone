@@ -25,9 +25,9 @@ WGU capstone application is a Machine-Learning Web Application that predicts the
 - 	`ls -l` (for unix-based systems) OR 
 - 	`dir` (for windows).
 
-5.	Run the main application using the following command from the folder where the application files are located:
+5.	Run the following command to verify that streamlit was installed and use it to execute the main application using the following command from the folder where the application files are located:
+-   `streamlit --version`
 - 	`streamlit run main.py`
-- 	
-6.	Navigate to a web browser and go to http://localhost:8501 or http://<ip>:8501 where <ip> is the ip address of the server running the application.
-![image](https://user-images.githubusercontent.com/64148017/205501797-5324a629-6f1b-4c70-8baa-e660a8ea2088.png)
+
+6.	Navigate to a web browser and go to http://localhost:8501. You should see the application.
 
