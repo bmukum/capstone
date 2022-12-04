@@ -1,2 +1,33 @@
 # Capstone
 WGU capstone application is a Machine-Learning Web Application that predicts the price of Cars.
+
+## How to run this App
+
+1 Ensure that git, python3 and pip3 are installed on your computer. You can check the corresponding versions using
+  - `git –version`
+  - `python3 –version`
+  - `pip3 --version`
+
+2 Open your command line interface and install the needed libraries:
+- `pip3 install numpy`
+-	`pip3 install pandas`
+-	`pip3 install matplotlib`
+-	`pip3 install scikit-learn`
+-	`pip3 install streamlit`
+-	`pip3 install seaborn`
+-	`pip3 install scipy`
+
+3.	Clone the project repository to your local machine:
+- 	`git clone https://github.com/bmukum/capstone`
+- 	
+4.	Run the following command to get into the capstone folder and see all the project files.
+-   `cd capstone`
+- 	`ls -l` (for unix-based systems) OR 
+- 	`dir` (for windows).
+
+5.	Run the main application using the following command from the folder where the application files are located:
+- 	`streamlit run main.py`
+- 	
+6.	Navigate to a web browser and go to http://localhost:8501 or http://<ip>:8501 where <ip> is the ip address of the server running the application.
+![image](https://user-images.githubusercontent.com/64148017/205501797-5324a629-6f1b-4c70-8baa-e660a8ea2088.png)
+
