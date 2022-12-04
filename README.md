@@ -1,5 +1,5 @@
 # Capstone
-WGU capstone application is a Machine-Learning Web Application that predicts the price of Cars.
+WGU capstone application is a Machine-Learning Web Application that predicts the price of used cars.
 
 ## How to run this App
 
