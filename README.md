@@ -4,7 +4,7 @@ WGU capstone application is a Machine-Learning Web Application that predicts the
 ## How to run this App
 
 1 Open your command line interface and ensure that git, python3 and pip3 are installed on your computer. You can check the corresponding versions using
-  - `git –version`
+  - `git –-version`
   - `python3 –version`
   - `pip3 --version`
 
